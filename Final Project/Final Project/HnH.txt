@@ -1,0 +1,10 @@
+HH001,Dish Soap,Household & Homecare,3.49
+HH002,Laundry Detergent,Household & Homecare,7.99
+HH003,Toilet Paper,Household & Homecare,5.99
+HH004,Paper Towels,Household & Homecare,3.99
+HH005,Cleaning Wipes,Household & Homecare,4.99
+HH006,Air Freshener,Household & Homecare,3.49
+HH007,Trash Bags,Household & Homecare,7.49
+HH008,Dish Towels,Household & Homecare,3.99
+HH009,All-Purpose Cleaner,Household & Homecare,5.99
+HH010,Broom and Dustpan,Household & Homecare,9.99

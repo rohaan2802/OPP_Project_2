@@ -1,0 +1,15 @@
+1,BKR006,Cinnamon Roll,Bakery,3.49,2,FP004,Carrots,Fresh Produce,1.99,5.48
+1,BT003,Baby Wipes,Baby & Toddler,4.49,1,BT003,Baby Wipes,Baby & Toddler,4.49,1,BKR005,Baguette,Bakery,4.99,4.99
+1,BKR005,Baguette,Bakery,4.99,4.99
+1,BT002,Baby Food,Baby & Toddler,3.99,3.99
+1,BT006,Baby Powder,Baby & Toddler,4.49,4.49
+1,BT006,Baby Powder,Baby & Toddler,4.49,4.49
+1,BT006,Baby Powder,Baby & Toddler,4.49,4.49
+1,BKR005,Baguette,Bakery,4.99,4.99
+1,BKR005,Baguette,Bakery,4.99,4.99
+1,F&M004,Ground Beef,Fish & Meat,6.99,2,F&M005,Tuna Steak,Fish & Meat,7.86,14.85
+1,L&T001,Whiskey,Liquor & Tobacco,39.99,39.99
+1,BKR002,Croissant,Bakery,3.49,2,BKR006,Cinnamon Roll,Bakery,3.49,3,PC006,Deodorant,Personal Care,4.49,11.47
+1,GR001,Rice,Groceries,6.99,2,F&M003,Chicken Breast,Fish & Meat,7.99,14.98
+1,F&F002,Ice Cream,Frozen Food,4.99,2,GR003,Cereal,Groceries,5.49,10.48
+1,F&M005,Tuna Steak,Fish & Meat,8.45,8.45

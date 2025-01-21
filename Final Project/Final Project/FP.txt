@@ -1,0 +1,10 @@
+FP001,Apples,Fresh Produce,2.99
+FP002,Bananas,Fresh Produce,1.49
+FP003,Tomatoes,Fresh Produce,3.99
+FP004,Carrots,Fresh Produce,1.99
+FP005,Broccoli,Fresh Produce,2.99
+FP006,Spinach,Fresh Produce,2.49
+FP007,Strawberries,Fresh Produce,4.99
+FP008,Avocado,Fresh Produce,3.49
+FP009,Grapes,Fresh Produce,3.99
+FP010,Oranges,Fresh Produce,2.99

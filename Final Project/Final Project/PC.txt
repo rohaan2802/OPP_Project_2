@@ -1,0 +1,10 @@
+PC001,Shampoo,Personal Care,5.99
+PC002,Conditioner,Personal Care,5.99
+PC003,Body Wash,Personal Care,4.49
+PC004,Toothpaste,Personal Care,3.49
+PC005,Toothbrush,Personal Care,1.99
+PC006,Deodorant,Personal Care,4.49
+PC007,Facial Cleanser,Personal Care,7.99
+PC008,Hand Sanitizer,Personal Care,3.49
+PC009,Razors,Personal Care,6.49
+PC010,Sunscreen,Personal Care,9.99

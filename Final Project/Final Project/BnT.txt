@@ -1,0 +1,10 @@
+BT001,Diapers,Baby & Toddler,24.99
+BT002,Baby Food,Baby & Toddler,3.99
+BT003,Baby Wipes,Baby & Toddler,4.49
+BT004,Baby Shampoo,Baby & Toddler,6.99
+BT005,Baby Lotion,Baby & Toddler,4.99
+BT006,Baby Powder,Baby & Toddler,4.49
+BT007,Pacifier,Baby & Toddler,3.49
+BT008,Baby Onesies,Baby & Toddler,8.99
+BT009,Baby Blanket,Baby & Toddler,11.99
+BT010,Baby Stroller,Baby & Toddler,149.99

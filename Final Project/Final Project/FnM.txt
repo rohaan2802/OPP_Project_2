@@ -1,0 +1,10 @@
+F&M001,Salmon Fillet,Fish & Meat,9.99
+F&M002,Ribeye Steak,Fish & Meat,8.99
+F&M003,Chicken Breast,Fish & Meat,7.99
+F&M004,Ground Beef,Fish & Meat,6.99
+F&M005,Tuna Steak,Fish & Meat,10.99
+F&M006,Pork Chops,Fish & Meat,8.99
+F&M007,Lamb Shoulder,Fish & Meat,7.99
+F&M008,Turkey Breast,Fish & Meat,6.99
+F&M009,Beef Ribs,Fish & Meat,9.99
+F&M010,Sausages,Fish & Meat,7.99

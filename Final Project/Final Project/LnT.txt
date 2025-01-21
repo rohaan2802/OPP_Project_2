@@ -1,0 +1,10 @@
+L&T001,Whiskey,Liquor & Tobacco,39.99
+L&T002,Vodka,Liquor & Tobacco,29.99
+L&T003,Rum,Liquor & Tobacco,24.99
+L&T004,Tequila,Liquor & Tobacco,35.99
+L&T005,Gin,Liquor & Tobacco,32.99
+L&T006,Wine,Liquor & Tobacco,26.99
+L&T007,Whiskey,Liquor & Tobacco,39.99
+L&T008,Vodka,Liquor & Tobacco,29.99
+L&T009,Rum,Liquor & Tobacco,25.99
+L&T010,Tequila,Liquor & Tobacco,36.99

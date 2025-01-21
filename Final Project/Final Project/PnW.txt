@@ -1,0 +1,10 @@
+PW001,Pain Reliever,Pharma & Wellness,4.99
+PW002,Vitamins,Pharma & Wellness,14.99
+PW003,Cough Syrup,Pharma & Wellness,6.49
+PW004,Band-Aids,Pharma & Wellness,3.49
+PW005,Thermometer,Pharma & Wellness,9.99
+PW006,Antacids,Pharma & Wellness,4.49
+PW007,Allergy Medication,Pharma & Wellness,7.99
+PW008,Sleep Aid,Pharma & Wellness,6.49
+PW009,First Aid Kit,Pharma & Wellness,14.99
+PW010,Cold and Flu Medicine,Pharma & Wellness,6.99

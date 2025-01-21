@@ -1,0 +1,10 @@
+BKR001,Bread,Bakery,4.99
+BKR002,Croissant,Bakery,3.49
+BKR003,Muffin,Bakery,2.99
+BKR004,Danish Pastry,Bakery,3.99
+BKR005,Baguette,Bakery,4.99
+BKR006,Cinnamon Roll,Bakery,3.49
+BKR007,Donut,Bakery,2.49
+BKR008,Sourdough Bread,Bakery,5.99
+BKR009,Pie,Bakery,6.49
+BKR010,Cupcake,Bakery,4.49

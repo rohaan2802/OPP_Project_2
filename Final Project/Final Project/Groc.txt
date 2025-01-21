@@ -1,0 +1,10 @@
+GR001,Rice,Groceries,6.99
+GR002,Pasta,Groceries,3.49
+GR003,Cereal,Groceries,5.49
+GR004,Canned Soup,Groceries,2.99
+GR005,Olive Oil,Groceries,9.99
+GR006,Coffee,Groceries,8.49
+GR007,Tea,Groceries,3.99
+GR008,Sugar,Groceries,2.49
+GR009,Salt,Groceries,1.49
+GR010,Flour,Groceries,4.49
